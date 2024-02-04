@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lezkonnet - Ads Platform</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: #fff;
+        }
+
+        section {
+            margin: 20px 0;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: #fff;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to Lezkonnet Ads Platform</h1>
+    </header>
+
+    <section>
+        <h2>Featured Ads</h2>
+        <div>
+            <!-- Sample Ad 1 -->
+            <div>
+                <img src="ad1.jpg" alt="Ad 1">
+                <p>Description for Ad 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </div>
+
+            <!-- Sample Ad 2 -->
+            <div>
+                <img src="ad2.jpg" alt="Ad 2">
+                <p>Description for Ad 2. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </div>
+
+            <!-- Add more ads as needed -->
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Lezkonnet Ads Platform. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
